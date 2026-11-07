@@ -1,6 +1,6 @@
 # AI Reflection
 
-I used ChatGPT to help organize the requirements for Lab 7, plan the two programs, 
+ Used ChatGPT to help organize the requirements for Lab 7, plan the two programs, 
 and explain C++ selection statements and character-array comparisons. 
 I reviewed the suggestions against the assignment instructions 
 because I am responsible for understanding and checking the code I submit. I used terminal to check bmi and the colors.
@@ -15,7 +15,5 @@ To check my work, I will compile both files with the required C++17 command and 
 
 I can now explain how the BMI conditions divide the three categories and 
 why `strcmp` is used for character-array text. 
-I still need practice tracing nested conditions and 
-checking boundary values without overlooking an endpoint.
 
  I funded very I interesting how we can use coding to help us with real life examples such as weight and the combination of colors to make a new color but of course understanding the weakness of codes means to know the the language can give you an error. The errors on coding were given when the color output was not red blue or yellow and for bmi was negative or zero. 
